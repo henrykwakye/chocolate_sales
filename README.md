@@ -1,8 +1,14 @@
+<div align="center">
+
 # 🍫 Chocolate Sales Analysis Project
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
 [![Data Science](https://img.shields.io/badge/Data-Science-green.svg)](https://github.com/henrykwakye/chocolate_sales)
+
+<img src="./images/img2.jpg" alt="Chocolate Sales Analysis Visualization" width="600">
+
+</div>
 
 ## 📋 Project Overview
 
