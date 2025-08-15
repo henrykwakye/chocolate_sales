@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🍫 Chocolate Sales Analysis Project
+# 🍫 Chocolate Sales Analysis Project 🍫
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
@@ -12,15 +12,7 @@
 
 ## 📋 Project Overview
 
-This comprehensive data science project analyzes chocolate sales data to uncover insights through statistical analysis, machine learning, and interactive visualizations. The project explores sales patterns, performance metrics, and trends across different regions, products, and salespeople.
-
-## 🚀 Quick Navigation
-
-### 📊 **Main Analysis Files**
-- **[🔬 Main Analysis Notebook](./choco_sales_analysis.ipynb)** - Primary Jupyter notebook with 44 cells of analysis
-- **[📋 Dataset](./Chocolate%20Sales%20Dataset.csv)** - Raw chocolate sales data (1,096 records)
-- **[❓ Analysis Questions](./choco_sales_analysis_questions.txt)** - 15 guided questions to explore
-- **[📄 Advanced Project Guide](./chocolate_sales_advanced_project.markdown)** - Detailed specifications for advanced tasks
+This comprehensive data science project analyzes chocolate sales data to uncover insights through statistical analysis, machine learning, and visualizations. The project explores sales patterns, performance metrics, and trends across different regions, products, and salespeople.
 
 ### 🎯 **Quick Start**
 1. Open [`choco_sales_analysis.ipynb`](./choco_sales_analysis.ipynb) to start analyzing
@@ -104,23 +96,6 @@ statsmodels     # Statistical modeling
 dash            # Interactive web applications
 ```
 
-## 🚀 Getting Started
-
-### Installation
-```bash
-# Clone the repository
-git clone https://github.com/henrykwakye/chocolate_sales.git
-cd chocolate_sales
-
-# Install required packages
-pip install pandas numpy scikit-learn statsmodels plotly dash matplotlib seaborn
-```
-
-### Running the Analysis
-1. **Open the main notebook**: [`choco_sales_analysis.ipynb`](./choco_sales_analysis.ipynb)
-2. **Follow the guided analysis**: Refer to [`choco_sales_analysis_questions.txt`](./choco_sales_analysis_questions.txt)
-3. **Advanced tasks**: See [`chocolate_sales_advanced_project.markdown`](./chocolate_sales_advanced_project.markdown)
-
 ## 📈 Current Progress
 
 - ✅ **Dataset Loaded**: 1,096 sales records across 6 countries
@@ -128,33 +103,6 @@ pip install pandas numpy scikit-learn statsmodels plotly dash matplotlib seaborn
 - ✅ **Visualization Framework**: Charts and plots infrastructure
 - 🔄 **In Progress**: Statistical analysis and machine learning models
 - ⏳ **Upcoming**: Interactive dashboard development
-
-## 🎨 Visualizations
-
-The project generates various visualizations stored in the [`images/`](./images/) directory:
-- Sales performance charts
-- Geographic distribution maps
-- Time series trends
-- Product performance comparisons
-
-## 📋 Advanced Project Tasks
-
-For detailed specifications, see [`chocolate_sales_advanced_project.markdown`](./chocolate_sales_advanced_project.markdown):
-
-1. **Task 1**: Data Cleaning and Feature Engineering
-2. **Task 2**: Statistical Analysis and Hypothesis Testing
-3. **Task 3**: Clustering Analysis for Salesperson Profiling
-4. **Task 4**: Time Series Forecasting
-5. **Task 5**: Interactive Dashboard Development
-
-## 📊 Key Files
-
-| File | Purpose | Status |
-|------|---------|--------|
-| [`choco_sales_analysis.ipynb`](./choco_sales_analysis.ipynb) | Main analysis notebook | 🔄 In Progress |
-| [`Chocolate Sales Dataset.csv`](./Chocolate%20Sales%20Dataset.csv) | Raw data source | ✅ Ready |
-| [`choco_sales_analysis_questions.txt`](./choco_sales_analysis_questions.txt) | Analysis roadmap | ✅ Complete |
-| [`chocolate_sales_advanced_project.markdown`](./chocolate_sales_advanced_project.markdown) | Project specifications | ✅ Complete |
 
 ## 🤝 Contributing
 
