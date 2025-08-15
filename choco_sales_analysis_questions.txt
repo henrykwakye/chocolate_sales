@@ -1,0 +1,17 @@
+Data Analysis Project: Chocolate Sales
+
+1. What is the total sales amount across all records?
+2. Which country has the highest total sales?
+3. Who is the top-performing sales person based on total sales?
+4. Which product generates the most revenue?
+5. What is the sales trend over time (monthly or quarterly)?
+6. Are there seasonal patterns in sales?
+7. What is the average sales amount per transaction?
+8. What is the correlation between amount and boxes shipped?
+9. Which sales person has shipped the most boxes overall?
+10. Which country has the most variety of products sold?
+11. Are there products that are only sold in specific countries?
+12. What is the distribution of sales amounts across all transactions?
+13. How many unique products are sold in the dataset?
+14. What is the average number of boxes shipped per sale by product?
+15. What are the peak sales months for each product?
